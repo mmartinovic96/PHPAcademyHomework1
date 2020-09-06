@@ -1,3 +1,7 @@
+<?php
+require 'page1.php';
+?>
+
 <!DOCTYPE html>
 <html>
 
