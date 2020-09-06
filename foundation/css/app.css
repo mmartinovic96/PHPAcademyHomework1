@@ -1,0 +1,52 @@
+body{
+background-color: gainsboro;
+}
+img{
+    float: left;
+}
+.top-bar{
+    background-color: #22bb5b;
+
+}
+p{
+    font-size: 1.90em;
+}
+ul{
+    list-style-type: none;
+}
+.menu-text{
+    text-align: left;
+    margin-top: 10px;
+    font-size: 2em;
+    background-color: #22bb5b;
+    color: gainsboro;
+
+}
+header ul li a{
+    background-color: #22bb5b;
+    color: gainsboro;
+}
+#drugitext{
+    float: top;
+
+
+}
+footer {
+    margin-top: 20px;
+}
+main{
+    margin-top: 20px;
+}
+em{
+    font-size: 1.50em;
+    float: left;
+}
+aside{
+    font-size: 1.90em;
+}
+fieldset{
+    font-size: 1.50em;
+}
+hr{
+    font-size: 1.50em;
+}
